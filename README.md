@@ -11,7 +11,7 @@ git clone https://github.com/KashifWebDev/contact-management-frontend.git
 
 Navigate to the frontend directory:
 ```bash
-cd user-management-system/frontend
+cd user-management-system/
 ```
 
 Install dependencies:
