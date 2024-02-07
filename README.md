@@ -1,28 +1,26 @@
-# AngularBootstrapBoilerplate
+# User Management System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2 and uses [Bootstrap](https://github.com/twbs/bootstrap) version 5.0.1.
+This is a simple user management system built with Angular for the frontend and Laravel for the backend. It allows users to add, view, and delete contacts.
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Clone the repository:
+```bash
+git clone https://github.com/your-username/user-management-system.git
+```
 
-## Code scaffolding
+Navigate to the frontend directory:
+```bash
+cd user-management-system/frontend
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Install dependencies:
+```bash
+npm install
+```
 
-## Build
+Start the Angular development server:
+```bash
+ng serve
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# contact-management-frontend"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/KashifWebDev/contact-management-frontend.git git push -u origin main
