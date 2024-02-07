@@ -6,7 +6,7 @@ This is a simple user management system built with Angular for the frontend and 
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/KashifWebDev/contact-management-frontend.git
 ```
 
 Navigate to the frontend directory:
